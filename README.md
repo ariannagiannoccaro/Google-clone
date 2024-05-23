@@ -1,4 +1,4 @@
-# ClonGoogle
+# Google-Clone
 Clonación de la Interfaz gráfica de Google usando HTML &amp;&amp; CSS
 
 ## Intro 📚
